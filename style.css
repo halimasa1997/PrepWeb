@@ -1743,10 +1743,11 @@ section {
         padding: 20px;
     }
 
-    .pres-image {
-
-        height: 250px;
-    }
+   .pres-image {
+    width: 280px;
+    height: 360px;
+    margin: 0 auto;
+}
 
     .message-content h3 {
 
